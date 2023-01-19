@@ -8,6 +8,9 @@ public class sample_Test2 {
 	public void SampleTest2()
 	{
 		System.out.println("--sampleTest2---");
+		
+		
+		
 	}
 
 }
