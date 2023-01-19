@@ -14,5 +14,10 @@ public class Test5 {
 	{
 		System.out.println("test6");
 	}
+	@Test
+	public void test7()
+	{
+		System.out.println("test7");
+	}
 
 }
